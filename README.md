@@ -1,1 +1,0 @@
-# gb_structures_and_algorithms_python
